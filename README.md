@@ -17,10 +17,6 @@ BFS Specifications
 Proof-of-Stake Stage
 - POS starts at genesis without stake interest per year and 12 hours to mature
 
-Block Explorer:
-===
-To be released later
-
 BFS Client
 ===
 Source: To be released after BFT beta release
