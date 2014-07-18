@@ -37,10 +37,9 @@ Mac and Linux:
 Sample bfs.conf file
 ===
 ```
-[code]
 gen=1
+
 #You must set rpcuser and rpcpassword to secure the JSON-RPC api 
 rpcuser=UlyssXXeys
 rpcpassword=YourSuperGreatPasswordNumber_DO_NOT_USE_THIS_OR_YOU_WILL_GET_ROBBED
-[/code]
 ```
