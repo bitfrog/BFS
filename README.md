@@ -23,14 +23,15 @@ Source: To be released after BFT beta release
 
 ```
 Window:
-1. Download the client:  http://xxx xxx xxx  xx
+1. Download the client.
 2. Create a folder for BFS
 3. Move bfs-qt.exe into your BFS folder
 4. Go to your C:\Users\You_User_Name\AppData\Roaming\BFS Directory and create a bfs.conf file.
 5. Start bfs-qt.exe
 
-Mac: 
-To be released soon.
+Mac and Linux:
+1. Please follow the bitcoin guideline for the installation. 
+
 ```
 
 Sample bfs.conf file
