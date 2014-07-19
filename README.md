@@ -29,7 +29,7 @@ Window:
 4. Go to your C:\Users\You_User_Name\AppData\Roaming\BFS Directory and create a bfs.conf file.
 5. Start bfs-qt.exe
 
-Mac and Linux (Fedora 17):
+Mac and Linux (Fedora_x86 17):
 1. Please follow the bitcoin guideline for the installation. 
 
 ```
