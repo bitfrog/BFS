@@ -38,6 +38,7 @@ Sample bfs.conf file
 ===
 ```
 gen=1
+server=1
 
 #You must set rpcuser and rpcpassword to secure the JSON-RPC api 
 rpcuser=UlyssXXeys
